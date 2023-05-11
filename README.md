@@ -3,7 +3,7 @@
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
 Create a simple yet stunning website to showcase your skills and personality as a developer. Challenge yourself to stand out and impress potential employers or clients.
-
+j
 ## How to start
 
 1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
